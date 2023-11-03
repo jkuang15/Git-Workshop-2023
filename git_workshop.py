@@ -7,7 +7,7 @@ def func1(num_a):
     print("ding dong again")
     print("i'm adding this")
     print("push")
-    return -1
+    return "jamie"
 
 def func2(num_b):
     # placeholder return, replace with your own function
