@@ -4,7 +4,6 @@ import math
 # rename your function
 def func1(num_a):
     # placeholder return, replace with your own function
-    print("ding dong")
     return -1
 
 def func2(num_b):
