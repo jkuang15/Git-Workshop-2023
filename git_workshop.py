@@ -5,6 +5,7 @@ import math
 def func1(num_a):
     # placeholder return, replace with your own function
     print("ding dong again")
+    print("i'm adding this")
     return -1
 
 def func2(num_b):
